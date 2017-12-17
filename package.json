@@ -1,0 +1,22 @@
+{
+  "name": "effect-tick",
+  "version": "1.0.0",
+  "description": "An effect for Redux-Yield-Effect that processes a callback every tick and doesn't yield till the callback returns true.",
+  "main": "tick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkjunky/effect-tick.git"
+  },
+  "keywords": [
+    "redux-yield-effect"
+  ],
+  "author": "Jason McCarrell <jason.abz+npm@gmail.com> (http://www.jayeh.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkjunky/effect-tick/issues"
+  },
+  "homepage": "https://github.com/funkjunky/effect-tick#readme"
+}
