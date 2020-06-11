@@ -1,6 +1,6 @@
 {
   "name": "effect-tick",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An action that returns a promise and processes a callback every tick and doesn't resolve the promise till the callback returns true.",
   "main": "tick.js",
   "scripts": {
