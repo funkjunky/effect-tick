@@ -37,7 +37,7 @@ export const tickMiddleware = store => {
     }
 
     function clearInterval() {
-        clearInterval(interval);
+        window.clearInterval(interval);
     }
 
     return next => action => {
